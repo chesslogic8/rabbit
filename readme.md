@@ -136,7 +136,7 @@ The underlying Rabbit algorithm itself is public domain.
 
 ## Credits
 
-- @bashbunni the awesome rust coder !! https://github.com/bashbunni
+- @bashbunni the awesome Rust coder !! https://github.com/bashbunni
 - Rabbit stream cipher: Martin Boesgaard et al. (2003, eSTREAM)
 - Rust `rabbit` crate: RustCrypto team
 - Argon2, BLAKE3, and other crates: their respective authors
