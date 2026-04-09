@@ -1,6 +1,5 @@
 
-# rabbit
-
+# rabbit 🦀
 **Fast • Secure • Password-based • Atomic in-place file encryption for Linux**
 
 A production-ready CLI tool that uses the **Rabbit** stream cipher (eSTREAM finalist) with modern authenticated encryption:
