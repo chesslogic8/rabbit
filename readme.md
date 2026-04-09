@@ -30,7 +30,7 @@ A production-ready CLI tool that uses the **Rabbit** stream cipher (eSTREAM fina
 ### 1. Build it
 
 
-git clone https://github.com/yourname/rabbit.git   # or just use your local folder
+git clone https:// github.com/yourname/rabbit.git   # or just use your local folder
 cd rabbit
 cargo build --release
 
